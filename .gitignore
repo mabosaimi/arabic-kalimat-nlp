@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+
+.vscode/
+*.swp
+*.swo
+
+*.log
+*.pot
+*.mo
+
+.DS_Store
+Thumbs.db
+
+
+kalimat_corpus
+~$*
